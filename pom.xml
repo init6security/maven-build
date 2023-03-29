@@ -59,12 +59,5 @@
 		    </configuration>
 		</plugin>
 	    </plugins>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>localhost-releases</name>
-        <url>http://10.250.200.182:8081/artifactory/libs-release</url>
-    </repository>
-</distributionManagement>
 	</build>
 </project>
